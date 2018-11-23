@@ -1,0 +1,18 @@
+{
+  "name": "qa-final",
+  "version": "1.0.0",
+  "description": "Example project for Quality Assurance Testing.  WARN: This code contains defects.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "truffle": "^3.4.9"
+  }
+}
