@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.3",
-    "truffle": "^3.4.9"
+    "truffle": "^3.4.9",
+    "ganache-cli": "6.2.3"
   }
 }
